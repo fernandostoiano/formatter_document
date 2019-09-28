@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <name>Document sem Nome</name>
+    <type>INVOICE</type>
+    <items>
+        <item>
+            <description>Joelho de porco</description>
+        </item>
+        <item>
+            <description>Orelha de porco</description>
+        </item>
+    </items>
+</document>

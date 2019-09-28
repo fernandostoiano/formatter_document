@@ -6,6 +6,6 @@ import org.springframework.boot.runApplication
 @SpringBootApplication
 class DocumentApplication
 
-	fun main(args: Array<String>) {
-		runApplication<DocumentApplication>(*args)
-	}
+fun main(args: Array<String>) {
+	runApplication<DocumentApplication>(*args)
+}
